@@ -1,3 +1,5 @@
 # Portfolio - React Authentication
 
-A project a made while learning about firebase and authentication in React applications via this tutorial: https://www.youtube.com/watch?v=PKwu15ldZ7k
+A project I made using Firebase for authentication in React applications
+
+Deployment link: https://codezealot-react-authentication.netlify.app/
